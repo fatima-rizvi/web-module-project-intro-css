@@ -35,7 +35,7 @@ nav a {
     border-radius: 10px;
     width: 9%;
     margin: 2% 5%;
-    padding: .5%;
+    padding: .7%;
     color: white;
     text-decoration: none;
 }
@@ -81,7 +81,7 @@ nav a {
 .top-text p {
     text-align: center;
     margin: 0 auto;
-    width: 45%;
+    width: 52%;
 }
 
 .color-block {
@@ -98,6 +98,7 @@ nav a {
     display: inline-block;
     text-align: center;
     width: 20%;
+    margin: 2% auto;
 }
 
 .notices img {
