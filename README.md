@@ -69,6 +69,8 @@ The following goals are designed to stretch your knowledge and may require addit
 - [ ] Use [favicon.io](https://favicon.io/favicon-converter/) to convert the campfire and RV images to real favicons and use them in your project
 - [ ] Host your website on Netlify.com
 
+Netlify link: https://focused-yonath-412840.netlify.app/
+
 ## Resources
 
 👋 [Assignment help: w3 CSS tutorials](https://www.w3schools.com/css/)
