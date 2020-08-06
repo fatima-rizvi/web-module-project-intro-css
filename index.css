@@ -41,33 +41,25 @@ nav a {
 }
 
 .plan {
-    background-color: #FF764E;  
-}
-
-.plan:hover {
-    background-color: white;
-    color: #FF764E;
-    border: 2px solid #FF764E;
+    background-color: #FF764E;
 }
 
 .learn {
     background-color: #5ED3EB;
 }
 
-.learn:hover {
-    background-color: white;
-    color: #5ED3EB;
-    border: 2px solid #5ED3EB;
-}
-
 .involved {
     background-color: #FFCD69;
 }
 
-.involved:hover {
-    background-color: white;
-    color: #FFCD69;
-    border: 2px solid #FFCD69;
+@keyframes animate {
+    100% {background-color: green;
+        color: white;}
+}
+
+nav a:hover {
+    animation-name: animate;
+    animation-duration: 1s;
 }
 
 .top-info {
