@@ -44,12 +44,30 @@ nav a {
     background-color: #FF764E;  
 }
 
+.plan:hover {
+    background-color: white;
+    color: #FF764E;
+    border: 2px solid #FF764E;
+}
+
 .learn {
     background-color: #5ED3EB;
 }
 
+.learn:hover {
+    background-color: white;
+    color: #5ED3EB;
+    border: 2px solid #5ED3EB;
+}
+
 .involved {
     background-color: #FFCD69;
+}
+
+.involved:hover {
+    background-color: white;
+    color: #FFCD69;
+    border: 2px solid #FFCD69;
 }
 
 .top-info {
